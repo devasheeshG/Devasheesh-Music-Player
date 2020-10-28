@@ -1,0 +1,14 @@
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\bin\Debug\Devasheesh Music Player.exe
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\bin\Debug\Devasheesh Music Player.pdb
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\bin\Debug\Devasheesh Music Player.xml
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh_Music_Player.Form1.resources
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh_Music_Player.Resources.resources
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh Music Player.vbproj.GenerateResource.Cache
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh Music Player.exe
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh Music Player.xml
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh Music Player.pdb
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\Devasheesh Music Player\Devasheesh Music Player\Devasheesh Music Player\obj\x86\Debug\Devasheesh Music Player.vbproj.ResolveComReference.cache
